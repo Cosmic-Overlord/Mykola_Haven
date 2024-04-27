@@ -25,8 +25,8 @@
 /datum/job/bridgeofficer/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 2
-		spawn_positions = 2
+		total_positions = 1
+		spawn_positions = 1
 
 /datum/job/hop/New()
 	. = ..()
@@ -37,26 +37,26 @@
 /datum/job/bartender/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 1
-		spawn_positions = 1
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/cook/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 1
-		spawn_positions = 1
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/janitor/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 1
-		spawn_positions = 1
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/hydro/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 1
-		spawn_positions = 1
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/clown/New()
 	. = ..()
@@ -103,20 +103,20 @@
 /datum/job/chemist/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 2
-		spawn_positions = 2
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/paramedic/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 2
-		spawn_positions = 2
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/psychologist/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 2
-		spawn_positions = 2
+		total_positions = 1
+		spawn_positions = 1
 
 /datum/job/geneticist/New()
 	. = ..()
@@ -169,8 +169,8 @@
 /datum/job/engineer/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 4
-		spawn_positions = 4
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/atmos/New()
 	. = ..()
@@ -187,8 +187,8 @@
 /datum/job/cargo_tech/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 3
-		spawn_positions = 3
+		total_positions = 0
+		spawn_positions = 0
 
 /datum/job/mining/New()
 	. = ..()
@@ -223,8 +223,8 @@
 /datum/job/detective/New()
 	. = ..()
 	if(SSmapping.config?.map_name == "PrisonStation")
-		total_positions = 0
-		spawn_positions = 0
+		total_positions = 2
+		spawn_positions = 2
 
 /datum/job/peacekeeper/New()
 	. = ..()
