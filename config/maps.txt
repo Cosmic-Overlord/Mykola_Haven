@@ -16,58 +16,59 @@ Format:
 endmap
 
 map boxstation
-	default
-	#voteweight 1.5
+	disabled
 endmap
 
 map layeniastation
-	minplayers 50
-	#voteweight 0.5
+	disabled
 endmap
 
 map metastation
-	minplayers 25
-	#voteweight 0.5
+	disabled
 endmap
 
 map ratvarstation
-	minplayers 120
+	disabled
 endmap
 
 map armystation
-	minplayers 120
+	disabled
 endmap
 
 map pubbystation
+	disabled
 endmap
 
 map omegastation
-	maxplayers 35
+	disabled
 endmap
 
 map deltastation
-	minplayers 50
+	disabled
 endmap
 
 map smexistation
-	minplayers 25
+	disabled
 endmap
 
 map runtimestation
+	disabled
 endmap
 
 map spookystation
-	minplayers 15
+	disabled
 endmap
 
 map festivestation
-	minplayers 15
+	disabled
 endmap
 
 map multiz_debug
+	disabled
 endmap
 
 map kilostation
+	disabled
 endmap
 
 map syndicatestation
@@ -75,20 +76,29 @@ map syndicatestation
 endmap
 
 map smolstation
+	disabled
 endmap
 
 map smolstation
+	disabled
 endmap
 
 map taustation
+	disabled
 endmap
 
 map cogstation
+	disabled
 endmap
 
 map syndicatestation
-	voteweight 2
+	disabled
 endmap
 
+#map prisonstation
+	minplayers 1
+	endmap
+
 #map boxedinstation
+	disabled
 	endmap
