@@ -391,6 +391,10 @@
 /obj/structure/alien/resin/wall,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/awaymission)
+"alo" = (
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "alw" = (
 /obj/effect/turf_decal/vg_decals/atmos/air,
 /turf/open/floor/engine/air,
@@ -512,6 +516,10 @@
 /mob/living/simple_animal/hostile/deathclaw/funclaw/femclaw,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"anM" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/dark,
+/area/security/brig)
 "anR" = (
 /obj/structure/closet/crate,
 /obj/item/stack/sheet/metal/fifty,
@@ -774,6 +782,7 @@
 	pixel_y = -26;
 	req_access_txt = "28"
 	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
 /turf/open/floor/carpet/red,
 /area/command/bridge)
 "atX" = (
@@ -1174,6 +1183,10 @@
 /obj/effect/turf_decal/vg_decals/department/mining,
 /turf/open/floor/plasteel,
 /area/cargo/storage)
+"azI" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "azM" = (
 /turf/open/floor/carpet/orange,
 /area/security/prison/cells)
@@ -1408,6 +1421,10 @@
 /obj/effect/turf_decal/tile/blue/full,
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
+"aEt" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/festive/alleyway/safe,
+/area/hilbertshotel)
 "aEu" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -1437,6 +1454,13 @@
 	},
 /obj/effect/turf_decal/sand,
 /turf/open/floor/plating/beach/sand,
+/area/hilbertshotel)
+"aFs" = (
+/obj/structure/railing/corner{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/festive/alleyway/safe,
 /area/hilbertshotel)
 "aFA" = (
 /obj/effect/turf_decal/tile/yellow{
@@ -1532,6 +1556,7 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
 /turf/open/floor/plasteel,
 /area/security/prison)
 "aIH" = (
@@ -1918,6 +1943,13 @@
 /obj/item/reagent_containers/blood,
 /turf/open/floor/plating/rust,
 /area/ruin/lavaland/powered)
+"aUr" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/blue/fourcorners,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "aUx" = (
 /turf/open/floor/grass/grass0,
 /area/awaymission)
@@ -1928,6 +1960,7 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
+/mob/living/simple_animal/pet/dog/corgi/pig,
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
 "aUG" = (
@@ -2234,6 +2267,7 @@
 	icon_state = "4-8"
 	},
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "bax" = (
@@ -2362,6 +2396,13 @@
 "bdn" = (
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /obj/structure/disposalpipe/segment,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
 "bdw" = (
@@ -2503,6 +2544,10 @@
 /obj/item/mop,
 /turf/open/floor/plasteel,
 /area/security/prison)
+"bhg" = (
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "bhn" = (
 /obj/machinery/door/airlock/command/glass{
 	name = "Control Room";
@@ -3570,6 +3615,7 @@
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 10
 	},
+/mob/living/simple_animal/pet/dog/corgi/Ian,
 /turf/open/floor/wood/wood_diagonal,
 /area/service/park)
 "bDn" = (
@@ -4180,6 +4226,13 @@
 /obj/machinery/gravity_generator/main/station,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"bSP" = (
+/obj/machinery/shower{
+	dir = 1
+	},
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/freezer,
+/area/security/prison)
 "bSY" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 4
@@ -4371,6 +4424,10 @@
 	},
 /turf/open/floor/plating/rust,
 /area/lavaland/surface/outdoors)
+"bYh" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy/void,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "bYi" = (
 /obj/machinery/firealarm,
 /turf/closed/wall/r_wall,
@@ -4450,6 +4507,16 @@
 	},
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
+"bZX" = (
+/obj/machinery/light/small{
+	dir = 4;
+	light_color = "#d8b1b1"
+	},
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/iron/kitchen_coldroom/freezerfloor,
+/area/security/prison)
 "bZY" = (
 /obj/structure/cable{
 	icon_state = "2-8"
@@ -4907,6 +4974,11 @@
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"coE" = (
+/obj/effect/turf_decal/tile/brown/full,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "coK" = (
 /obj/machinery/atmospherics/pipe/simple/supply/hidden{
 	dir = 4
@@ -4955,6 +5027,11 @@
 /obj/structure/trap/chill,
 /turf/open/floor/iron/cult,
 /area/awaymission)
+"cqc" = (
+/obj/machinery/light/floor,
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/dark,
+/area/security/brig)
 "cqd" = (
 /obj/structure/table,
 /obj/machinery/light/floor,
@@ -5168,6 +5245,10 @@
 /obj/effect/turf_decal/bot,
 /turf/open/floor/plating/rust,
 /area/lavaland/surface/outdoors)
+"cxT" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/carpet/red,
+/area/security/brig)
 "cxV" = (
 /obj/effect/turf_decal/siding/wideplating_new/dark{
 	dir = 10
@@ -5314,6 +5395,11 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"cCd" = (
+/obj/effect/festive/street/streetlinesouth,
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "cCk" = (
 /obj/machinery/light{
 	pixel_y = -1
@@ -5661,6 +5747,11 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
+"cIh" = (
+/mob/living/simple_animal/pet/dog/pug,
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/engineering/main)
 "cIq" = (
 /obj/structure/railing,
 /obj/structure/railing{
@@ -5715,6 +5806,10 @@
 /obj/effect/decal/cleanable/blood/gibs/human,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"cLo" = (
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/carpet/red,
+/area/command/bridge)
 "cLP" = (
 /obj/effect/turf_decal/loading_area/white{
 	dir = 8
@@ -6047,6 +6142,10 @@
 /obj/structure/destructible/cult/pylon,
 /turf/open/floor/iron/cult,
 /area/awaymission)
+"cWs" = (
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "cWw" = (
 /obj/effect/turf_decal/tile/red,
 /obj/effect/turf_decal/tile/red{
@@ -6122,6 +6221,8 @@
 /obj/structure/chair/comfy/brown{
 	dir = 4
 	},
+/obj/item/reagent_containers/spray/waterflower/lube,
+/obj/item/toy/crayon/spraycan/lubecan,
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
 "cYr" = (
@@ -6315,6 +6416,10 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"ddh" = (
+/mob/living/simple_animal/pet/dog/corgi/narsie,
+/turf/open/floor/carpet/red,
+/area/command/bridge)
 "ddP" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4;
@@ -6384,6 +6489,10 @@
 /obj/machinery/telecomms/server/presets/service,
 /turf/open/floor/plasteel/dark/telecomms,
 /area/command/bridge)
+"dfa" = (
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "dfp" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -6460,6 +6569,11 @@
 	},
 /turf/open/floor/plating,
 /area/cargo/storage)
+"dhz" = (
+/obj/effect/festive/street/streetlineeast,
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "dhA" = (
 /obj/structure/railing,
 /turf/open/floor/festive/stairs/stairswest,
@@ -6897,6 +7011,11 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
+"dsX" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "dtp" = (
 /obj/effect/turf_decal/tile/blue{
 	dir = 5
@@ -7583,6 +7702,7 @@
 /obj/item/storage/fancy/cigarettes/cigpack_robust,
 /obj/item/storage/fancy/cigarettes/cigpack_robust,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "dII" = (
@@ -7955,6 +8075,10 @@
 	},
 /turf/open/floor/plasteel/dark/telecomms,
 /area/engineering/gravity_generator)
+"dTm" = (
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/plasteel/white,
+/area/medical/medbay/central)
 "dTw" = (
 /obj/machinery/hydroponics/constructable,
 /obj/item/radio/intercom{
@@ -8291,6 +8415,13 @@
 	},
 /turf/open/lava/smooth/lava_land_surface,
 /area/awaymission)
+"ecP" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "ecZ" = (
 /obj/machinery/door/airlock/wood,
 /turf/open/floor/plating,
@@ -8609,6 +8740,13 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/security/prison)
+"ejq" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy/void,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "ejs" = (
 /obj/effect/turf_decal/tile/dark_green/half{
 	dir = 4
@@ -9157,6 +9295,13 @@
 	},
 /turf/open/floor/iron/cult,
 /area/awaymission)
+"ezx" = (
+/obj/machinery/atmospherics/pipe/simple/cyan/visible{
+	dir = 4
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/engineering/main)
 "ezy" = (
 /obj/effect/turf_decal/loading_area{
 	color = "#55391A";
@@ -9315,6 +9460,7 @@
 /obj/item/clothing/gloves/combat,
 /obj/item/door_remote/head_of_security,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "eCG" = (
@@ -9519,6 +9665,7 @@
 /obj/item/reagent_containers/food/drinks/flask/steel,
 /obj/item/reagent_containers/food/drinks/flask/steel,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "eHI" = (
@@ -9742,6 +9889,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
 /area/ruin/lavaland/powered)
+"eOO" = (
+/obj/effect/festive/street/streetlinewest,
+/obj/item/toy/plush/mammal/dog,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "eOS" = (
 /obj/structure/sign/painting/library{
 	pixel_y = -32
@@ -9945,6 +10097,7 @@
 "eVz" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "eVA" = (
@@ -10391,6 +10544,7 @@
 /obj/structure/table,
 /obj/machinery/light/floor,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "feS" = (
@@ -10591,6 +10745,17 @@
 	},
 /turf/open/floor/plating/rust,
 /area/security/prison)
+"fkz" = (
+/obj/structure/chair/stool/directional/south{
+	dir = 4
+	},
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
+"fkI" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/carpet/orange,
+/area/security/prison)
 "fkL" = (
 /obj/structure/chair/pew/left{
 	dir = 1
@@ -10779,6 +10944,10 @@
 /obj/machinery/iv_drip,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
+"frg" = (
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/wood,
+/area/hilbertshotel)
 "frp" = (
 /obj/item/stack/sheet/mineral/wood,
 /obj/item/book/manual/random,
@@ -11119,6 +11288,10 @@
 /obj/effect/turf_decal/tile/dark_green/full,
 /turf/open/floor/plasteel,
 /area/service/park)
+"fAa" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/dark,
+/area/command/bridge)
 "fAb" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer1{
 	dir = 8;
@@ -11688,6 +11861,7 @@
 /obj/item/lighter,
 /obj/item/lighter,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "fPS" = (
@@ -12905,6 +13079,11 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"gtu" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "gtD" = (
 /obj/machinery/door/airlock/glass_large{
 	name = "Medical"
@@ -12976,6 +13155,11 @@
 /obj/item/paper,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
+"gur" = (
+/obj/effect/turf_decal/delivery,
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "guu" = (
 /obj/structure/cable{
 	icon_state = "4-8"
@@ -13272,6 +13456,11 @@
 	},
 /turf/open/floor/plating/rust,
 /area/lavaland/surface/outdoors)
+"gBU" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/carpet/blue,
+/area/security/prison)
 "gCv" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -13447,6 +13636,13 @@
 /obj/structure/flora/ausbushes/ppflowers,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"gIr" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "gIy" = (
 /obj/structure/cable/yellow{
 	icon_state = "4-8"
@@ -13712,7 +13908,7 @@
 	dir = 4
 	},
 /obj/structure/table/reinforced,
-/obj/item/dest_tagger,
+/obj/item/destTagger,
 /obj/item/hand_labeler{
 	pixel_y = 8
 	},
@@ -13941,6 +14137,14 @@
 	},
 /turf/open/floor/plating/rust,
 /area/lavaland/surface/outdoors)
+"gUC" = (
+/obj/machinery/light/floor,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "gUF" = (
 /obj/item/flashlight/lamp,
 /obj/machinery/newscaster{
@@ -14521,6 +14725,14 @@
 "hke" = (
 /turf/closed/wall/r_wall,
 /area/space)
+"hkh" = (
+/obj/structure/chair/stool/directional/south{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/red/full,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "hkp" = (
 /obj/machinery/atmospherics/components/unary/tank/air,
 /obj/effect/turf_decal/stripes/line,
@@ -14564,6 +14776,11 @@
 	},
 /turf/open/floor/plating/rust,
 /area/lavaland/surface/outdoors)
+"hkN" = (
+/obj/item/trash/candy,
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "hkS" = (
 /obj/item/reagent_containers/food/drinks/beer,
 /obj/item/reagent_containers/food/drinks/beer,
@@ -14605,6 +14822,10 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/hallway/secondary/entry)
+"hlG" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa/ada,
+/turf/open/floor/wood/wood_diagonal,
+/area/service/park)
 "hmf" = (
 /obj/effect/turf_decal/delivery,
 /turf/open/floor/plasteel/dark,
@@ -14686,6 +14907,7 @@
 /obj/structure/table,
 /obj/machinery/light/floor,
 /obj/effect/turf_decal/tile/blue/fourcorners,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "hnB" = (
@@ -14975,6 +15197,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/awaymission)
+"hsS" = (
+/obj/effect/festive/street/streetlineeast,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "hsT" = (
 /obj/structure/chair/stool,
 /turf/open/floor/pod/dark,
@@ -15072,6 +15299,10 @@
 /mob/living/simple_animal/hostile/alien/drone,
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/awaymission)
+"hwh" = (
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "hwy" = (
 /obj/machinery/atmospherics/pipe/simple/yellow/visible{
 	dir = 6
@@ -15102,6 +15333,13 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"hwU" = (
+/obj/effect/turf_decal/stripes/white/line{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/wood/wood_diagonal,
+/area/service/park)
 "hxb" = (
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/turf_decal/tile/neutral{
@@ -15190,6 +15428,7 @@
 /obj/item/flashlight/seclite,
 /obj/item/flashlight/seclite,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "hzA" = (
@@ -15347,6 +15586,9 @@
 	icon_state = "cleanbot1";
 	name = "Rustbucket"
 	},
+/obj/vehicle/sealed/mecha/working/ripley/deathripley/real{
+	name = "Трактор ТДТ-55"
+	},
 /turf/open/floor/plasteel,
 /area/command/bridge)
 "hCL" = (
@@ -15367,6 +15609,11 @@
 /obj/structure/flora/bush,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"hDo" = (
+/obj/item/trash/candy,
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "hDp" = (
 /obj/structure/flora/ausbushes/sparsegrass,
 /obj/structure/flora/ausbushes/sparsegrass,
@@ -15708,6 +15955,13 @@
 	icon_state = "wood-broken5"
 	},
 /area/lavaland/surface/outdoors)
+"hMr" = (
+/obj/machinery/shower{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/freezer,
+/area/security/prison)
 "hMw" = (
 /obj/structure/flora/ausbushes/sparsegrass,
 /obj/structure/flora/ausbushes/sparsegrass,
@@ -15880,6 +16134,19 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"hRh" = (
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/turf/open/floor/plasteel,
+/area/command/bridge)
 "hRp" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -15890,10 +16157,16 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"hRE" = (
+/obj/machinery/shower,
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/freezer,
+/area/service/park)
 "hRO" = (
 /obj/structure/disposalpipe/junction{
 	dir = 4
 	},
+/mob/living/simple_animal/pet/dog/pug,
 /turf/open/floor/plasteel,
 /area/security/prison)
 "hSl" = (
@@ -15982,6 +16255,10 @@
 	},
 /turf/open/floor/plating/rust,
 /area/lavaland/surface/outdoors)
+"hUF" = (
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/engineering/main)
 "hVg" = (
 /obj/machinery/vending/snack/random,
 /turf/open/floor/plasteel/white,
@@ -15993,6 +16270,11 @@
 	},
 /turf/open/floor/plating,
 /area/command/bridge)
+"hVk" = (
+/obj/effect/festive/street/streetlinenorth,
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "hVE" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -16490,6 +16772,13 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
+"ieO" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/dark,
+/area/security/brig)
 "ieY" = (
 /obj/structure/table,
 /obj/item/storage/toolbox/mechanical,
@@ -16893,6 +17182,11 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/security/prison)
+"inU" = (
+/obj/effect/turf_decal/delivery,
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "ioc" = (
 /obj/effect/turf_decal/tile/yellow{
 	dir = 1
@@ -17118,6 +17412,17 @@
 	},
 /turf/open/floor/plating/rust,
 /area/lavaland/surface/outdoors)
+"ivD" = (
+/obj/effect/turf_decal/tile/blue/fourcorners,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/obj/item/reagent_containers/glass/bottle/adminordrazine,
+/turf/open/floor/plasteel/white,
+/area/medical/medbay/central)
 "ivF" = (
 /obj/structure/cable{
 	icon_state = "2-4"
@@ -17255,6 +17560,17 @@
 /obj/structure/flora/bush,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"ixM" = (
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/turf/open/floor/plasteel,
+/area/command/bridge)
 "ixU" = (
 /obj/structure/table,
 /obj/item/folder/yellow,
@@ -17304,11 +17620,22 @@
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"izH" = (
+/obj/structure/disposalpipe/segment{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "izV" = (
 /obj/structure/table/reinforced,
 /obj/item/grenade/chem_grenade/glitter,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"iAq" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "iAu" = (
 /obj/machinery/telecomms/server/presets/science,
 /obj/structure/sign/warning/nosmoking{
@@ -17338,6 +17665,11 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
+"iAM" = (
+/obj/effect/turf_decal/tile/blue/full,
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel/dark,
+/area/command/bridge)
 "iAU" = (
 /obj/item/soap/homemade,
 /turf/open/floor/plasteel/freezer,
@@ -17475,6 +17807,7 @@
 	dir = 8
 	},
 /obj/item/trash/intecookies,
+/mob/living/simple_animal/pet/dog/corgi,
 /turf/open/floor/plasteel,
 /area/security/prison)
 "iEL" = (
@@ -17896,6 +18229,7 @@
 /obj/effect/turf_decal/trimline/white/line{
 	dir = 8
 	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
 /turf/open/floor/wood/wood_diagonal,
 /area/service/park)
 "iML" = (
@@ -18548,6 +18882,10 @@
 	},
 /turf/open/floor/plasteel,
 /area/service/park)
+"jcr" = (
+/obj/item/dildo/flared/huge,
+/turf/open/floor/plasteel/freezer,
+/area/security/prison)
 "jcu" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -18742,6 +19080,7 @@
 /obj/structure/cable{
 	icon_state = "2-4"
 	},
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
 /turf/open/floor/plasteel,
 /area/security/prison)
 "jgf" = (
@@ -18880,6 +19219,11 @@
 /obj/structure/disposalpipe/segment,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"jjb" = (
+/obj/effect/turf_decal/delivery,
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "jjc" = (
 /mob/living/simple_animal/hostile/asteroid/imp,
 /turf/open/floor/plating/rust,
@@ -19481,6 +19825,25 @@
 /obj/structure/flora/rock/jungle,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"jAJ" = (
+/obj/machinery/light/floor,
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/freezer,
+/area/security/prison)
+"jAS" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "jBy" = (
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/plasteel,
@@ -19567,6 +19930,10 @@
 	},
 /turf/open/floor/plasteel,
 /area/command/bridge)
+"jDD" = (
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "jDN" = (
 /turf/open/floor/plasteel/dark/side{
 	dir = 5
@@ -19741,6 +20108,10 @@
 /obj/machinery/vending/coffee,
 /turf/open/floor/pod/dark,
 /area/ruin/lavaland/powered)
+"jJj" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel/dark,
+/area/command/bridge)
 "jJk" = (
 /obj/structure/flora/ausbushes/fullgrass,
 /obj/structure/flora/bush,
@@ -19774,6 +20145,11 @@
 	},
 /turf/closed/wall/r_wall,
 /area/medical/medbay/central)
+"jKC" = (
+/obj/machinery/light/floor,
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "jKL" = (
 /obj/effect/turf_decal/stripes/corner{
 	dir = 8
@@ -20340,6 +20716,11 @@
 	color = "#596479";
 	dir = 1
 	},
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
 /turf/open/floor/plasteel,
 /area/command/bridge)
 "kbl" = (
@@ -20843,6 +21224,14 @@
 /obj/structure/table/glass,
 /obj/machinery/light/directional/east,
 /obj/effect/turf_decal/tile/blue/fourcorners,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/badminka,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
 "kpZ" = (
@@ -21321,6 +21710,11 @@
 	},
 /turf/open/floor/plasteel,
 /area/engineering/main)
+"kEa" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "kEj" = (
 /obj/machinery/atmospherics/components/trinary/mixer/airmix,
 /obj/effect/turf_decal/tile/yellow,
@@ -21717,8 +22111,14 @@
 /area/awaymission)
 "kOj" = (
 /obj/effect/turf_decal/trimline/white/corner,
+/mob/living/simple_animal/pet/dog/corgi,
 /turf/open/floor/wood/wood_diagonal,
 /area/service/park)
+"kOG" = (
+/obj/effect/turf_decal/tile/blue/fourcorners,
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/plasteel/white,
+/area/medical/medbay/central)
 "kOM" = (
 /obj/structure/flora/tree/pine,
 /turf/open/floor/plating/asteroid/snow{
@@ -21889,6 +22289,10 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"kRT" = (
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/carpet/red,
+/area/command/bridge)
 "kSb" = (
 /obj/structure/closet/secure_closet/freezer/fridge{
 	req_access = ""
@@ -22156,6 +22560,11 @@
 /obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden,
 /turf/open/floor/plating/rust,
 /area/ruin/lavaland/powered)
+"kZa" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/mob/living/simple_animal/pet/dog/corgi/puppy/void,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "kZb" = (
 /obj/machinery/door/poddoor/shutters/preopen{
 	id = "hopqueue";
@@ -22243,6 +22652,14 @@
 	dir = 8
 	},
 /area/command/bridge)
+"lbO" = (
+/obj/structure/chair/stool/directional/south{
+	dir = 8
+	},
+/obj/effect/turf_decal/tile/red/full,
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "lcc" = (
 /obj/structure/table,
 /obj/item/stack/sheet/mineral/plasma,
@@ -22383,6 +22800,9 @@
 "lgr" = (
 /obj/structure/table/wood,
 /obj/item/candle/infinite,
+/obj/item/reagent_containers/glass/bottle/hexacrocin,
+/obj/item/reagent_containers/glass/bottle/hexacrocin,
+/obj/item/reagent_containers/glass/bottle/hexacrocin,
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
 "lgD" = (
@@ -22494,6 +22914,13 @@
 	},
 /turf/open/floor/plasteel,
 /area/engineering/main)
+"liN" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "liR" = (
 /obj/effect/turf_decal/caution/stand_clear{
 	dir = 1
@@ -23037,6 +23464,7 @@
 /obj/structure/cable/white{
 	icon_state = "1-2"
 	},
+/obj/item/a_gift/anything,
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
 "luL" = (
@@ -23332,6 +23760,10 @@
 	},
 /turf/open/floor/plating/rust,
 /area/ruin/lavaland/powered)
+"lBD" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/wood/wood_diagonal,
+/area/service/park)
 "lBM" = (
 /obj/machinery/button/door{
 	id = "QMLoaddoor";
@@ -23400,6 +23832,13 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/command/heads_quarters/ce)
+"lEg" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/yellow/full,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "lEj" = (
 /obj/structure/table/reinforced,
 /obj/item/shovel{
@@ -23671,6 +24110,10 @@
 	},
 /turf/open/floor/wood,
 /area/service/park)
+"lNr" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "lNK" = (
 /obj/machinery/door/window/northleft{
 	dir = 4;
@@ -23699,6 +24142,10 @@
 /obj/effect/landmark/start/paramedic,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
+"lOk" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/carpet/red,
+/area/security/prison)
 "lOl" = (
 /obj/effect/mob_spawn/human/corpse/cook,
 /turf/open/floor/iron/cult,
@@ -23982,6 +24429,10 @@
 	},
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/awaymission)
+"lVC" = (
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/engineering/main)
 "lVG" = (
 /obj/structure/table/wood,
 /obj/structure/spider/stickyweb,
@@ -24104,6 +24555,10 @@
 	},
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
+"lZj" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "lZo" = (
 /obj/effect/turf_decal/tile/blue,
 /turf/open/floor/plating/rust,
@@ -24138,6 +24593,18 @@
 /obj/structure/salvage/computer,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"lZY" = (
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/turf/open/floor/plasteel,
+/area/command/bridge)
 "mae" = (
 /obj/structure/chair/office/dark{
 	dir = 4
@@ -24177,6 +24644,11 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/wood,
 /area/awaymission)
+"mcC" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/puppy/void,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "mcD" = (
 /obj/effect/turf_decal/tile/neutral{
 	dir = 1
@@ -24262,6 +24734,7 @@
 	dir = 8
 	},
 /obj/effect/decal/cleanable/dirt,
+/mob/living/simple_animal/pet/dog/corgi,
 /turf/open/floor/wood/wood_diagonal,
 /area/service/park)
 "mfd" = (
@@ -24801,6 +25274,14 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
+"mpA" = (
+/obj/machinery/shower{
+	dir = 1
+	},
+/obj/item/reagent_containers/glass/bottle/crocin,
+/obj/item/reagent_containers/glass/bottle/crocin,
+/turf/open/floor/plasteel/freezer,
+/area/security/prison)
 "mpN" = (
 /obj/item/restraints/legcuffs/beartrap/prearmed,
 /obj/effect/decal/cleanable/blood/gibs/human,
@@ -26260,6 +26741,10 @@
 /obj/item/clothing/head/rice_hat,
 /turf/open/floor/plating/rust,
 /area/security/prison/cells)
+"mXn" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/carpet/red,
+/area/command/bridge)
 "mXJ" = (
 /obj/structure/bed/shadow{
 	dir = 4
@@ -26276,6 +26761,11 @@
 "mYs" = (
 /turf/open/floor/plasteel/dark/telecomms,
 /area/engineering/gravity_generator)
+"mYA" = (
+/obj/effect/turf_decal/tile/blue/fourcorners,
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel/white,
+/area/medical/medbay/central)
 "mYZ" = (
 /obj/structure/cable{
 	icon_state = "0-2"
@@ -26596,6 +27086,10 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
+"ngC" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "ngU" = (
 /obj/structure/chair/office/dark{
 	dir = 4
@@ -26616,6 +27110,10 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/hallway/secondary/entry)
+"nhf" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel/white,
+/area/medical/medbay/central)
 "nhu" = (
 /obj/structure/alien/weeds,
 /obj/structure/bed/nest,
@@ -26967,6 +27465,11 @@
 /mob/living/simple_animal/hostile/faithless,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"npn" = (
+/obj/item/trash/energybar,
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "npz" = (
 /obj/machinery/keycard_auth,
 /turf/closed/wall/r_wall,
@@ -27052,6 +27555,7 @@
 /obj/effect/turf_decal/trimline/white/line{
 	dir = 1
 	},
+/mob/living/simple_animal/pet/dog/corgi/narsie,
 /turf/open/floor/wood/wood_diagonal,
 /area/service/park)
 "nsj" = (
@@ -27445,6 +27949,16 @@
 	},
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
+"nCK" = (
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/turf/open/floor/plasteel/dark,
+/area/command/bridge)
 "nCN" = (
 /obj/machinery/atmospherics/pipe/manifold/general/visible,
 /turf/open/floor/plasteel,
@@ -27643,6 +28157,7 @@
 	icon_state = "4-8"
 	},
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "nGJ" = (
@@ -28663,6 +29178,10 @@
 /obj/item/reagent_containers/glass/beaker,
 /turf/open/floor/plasteel/freezer,
 /area/medical/medbay/central)
+"ohW" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "oip" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -28951,6 +29470,13 @@
 /obj/item/storage/belt/utility,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"oqv" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/festive/alleyway/safe,
+/area/hilbertshotel)
 "oqL" = (
 /obj/structure/chair/stool/directional{
 	dir = 8
@@ -29183,6 +29709,21 @@
 /obj/structure/spider/stickyweb,
 /turf/open/floor/plasteel/dark,
 /area/service/chapel/main)
+"owi" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "owp" = (
 /obj/structure/chair{
 	dir = 4
@@ -29205,6 +29746,13 @@
 /mob/living/simple_animal/hostile/cat_butcherer,
 /turf/open/floor/plating/rust,
 /area/ruin/lavaland/powered)
+"oww" = (
+/obj/structure/disposalpipe/segment{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "owy" = (
 /obj/structure/disposalpipe/segment{
 	dir = 10
@@ -29825,6 +30373,7 @@
 	dir = 8;
 	pixel_x = 24
 	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
 "oKc" = (
@@ -29968,6 +30517,14 @@
 	},
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
+"oNz" = (
+/obj/machinery/light{
+	dir = 4;
+	light_color = "#e8eaff"
+	},
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "oNU" = (
 /obj/structure/closet/secure_closet/hydroponics,
 /obj/machinery/light/floor,
@@ -30331,6 +30888,13 @@
 	icon_state = "white"
 	},
 /area/awaymission)
+"oYo" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/carpet/red,
+/area/security/brig)
 "oYq" = (
 /obj/machinery/light{
 	pixel_y = -1
@@ -30470,6 +31034,7 @@
 "pbu" = (
 /obj/effect/turf_decal/bot,
 /obj/item/trash/candy,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
 /turf/open/floor/plasteel,
 /area/security/prison)
 "pbz" = (
@@ -30612,6 +31177,11 @@
 	},
 /turf/open/floor/festive/alleyway/safe,
 /area/hallway/secondary/entry)
+"pft" = (
+/obj/effect/festive/street/streetlinenorth,
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "pfz" = (
 /obj/item/feather,
 /turf/open/floor/wood,
@@ -30768,6 +31338,13 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"pjv" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "pjw" = (
 /obj/structure/cable{
 	icon_state = "1-2"
@@ -30882,6 +31459,11 @@
 /obj/structure/bookcase/random,
 /turf/open/floor/wood,
 /area/security/prison)
+"pmm" = (
+/obj/effect/turf_decal/tile/brown/full,
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "pmu" = (
 /obj/structure/chair/office/dark{
 	dir = 1
@@ -30940,6 +31522,10 @@
 "pnw" = (
 /turf/open/floor/plasteel,
 /area/security/prison)
+"pny" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "pnz" = (
 /obj/machinery/camera{
 	c_tag = "CMO's Office";
@@ -31450,6 +32036,11 @@
 	},
 /turf/open/floor/festive/alleyway/safe,
 /area/service/park)
+"pzI" = (
+/obj/effect/festive/street/streetlinenw,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "pzJ" = (
 /obj/item/kirbyplants/random,
 /obj/machinery/light{
@@ -31510,6 +32101,11 @@
 	wet = 16
 	},
 /area/awaymission)
+"pAV" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "pAW" = (
 /obj/item/stack/sheet/metal,
 /turf/open/floor/plating/lavaland_baseturf,
@@ -31680,6 +32276,11 @@
 /obj/effect/landmark/start/security_officer,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
+"pEX" = (
+/obj/effect/turf_decal/delivery,
+/mob/living/simple_animal/pet/dog/corgi/Lisa/ada,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "pEZ" = (
 /obj/machinery/door/window/eastleft{
 	dir = 2;
@@ -31951,6 +32552,13 @@
 	},
 /turf/open/floor/carpet/red,
 /area/security/prison)
+"pNo" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "pNq" = (
 /obj/structure/flora/ausbushes/sparsegrass,
 /obj/structure/flora/ausbushes/sparsegrass,
@@ -31964,6 +32572,7 @@
 	light_color = "#d1dfff"
 	},
 /obj/structure/disposalpipe/segment,
+/mob/living/simple_animal/pet/dog/corgi,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
 "pNw" = (
@@ -32204,6 +32813,10 @@
 	},
 /turf/open/floor/iron/showroomfloor,
 /area/hilbertshotel)
+"pUf" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy/void,
+/turf/open/floor/carpet/red,
+/area/command/bridge)
 "pUj" = (
 /obj/item/stack/medical/mesh,
 /obj/structure/table,
@@ -32317,6 +32930,7 @@
 	icon_state = "1-2"
 	},
 /obj/effect/turf_decal/vg_decals/numbers/five,
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
 /turf/open/floor/plasteel,
 /area/security/prison)
 "pXI" = (
@@ -32416,6 +33030,10 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/security/prison)
+"qax" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy/void,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "qaE" = (
 /obj/structure/anvil/obtainable/table,
 /obj/item/reagent_containers/food/snacks/pizza/arnold,
@@ -32426,6 +33044,16 @@
 /obj/machinery/smartfridge/survival_pod,
 /turf/open/floor/pod,
 /area/ruin/lavaland/powered)
+"qaW" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "qbr" = (
 /obj/item/tcg_card/special/abductor,
 /turf/open/floor/iron/cult,
@@ -32507,6 +33135,7 @@
 "qeN" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/blue/fourcorners,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "qeW" = (
@@ -32696,6 +33325,11 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"qjt" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/pug,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "qjC" = (
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /obj/machinery/light{
@@ -33703,6 +34337,11 @@
 /obj/structure/flora/rock/jungle,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"qKr" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "qKO" = (
 /mob/living/simple_animal/hostile/faithless,
 /turf/open/floor/wood{
@@ -33932,6 +34571,10 @@
 "qPa" = (
 /turf/open/floor/plasteel/freezer,
 /area/ruin/lavaland/powered)
+"qPg" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/carpet/blue,
+/area/security/prison)
 "qPk" = (
 /obj/machinery/photocopier,
 /turf/open/floor/wood{
@@ -34581,6 +35224,7 @@
 	dir = 2;
 	pixel_y = 24
 	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
 /turf/open/pool,
 /area/command/bridge)
 "rhR" = (
@@ -34685,6 +35329,13 @@
 	},
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/awaymission)
+"rjx" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "rjJ" = (
 /turf/closed/wall/rust,
 /area/lavaland/surface/outdoors)
@@ -34884,6 +35535,13 @@
 	},
 /turf/open/floor/plasteel,
 /area/engineering/main)
+"rrw" = (
+/obj/structure/table,
+/obj/effect/turf_decal/tile/red/full,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "rrN" = (
 /obj/structure/flora/ausbushes/sparsegrass,
 /obj/structure/flora/ausbushes/brflowers,
@@ -34944,6 +35602,11 @@
 /obj/structure/bed/dildo_machine,
 /turf/open/floor/plating/rust,
 /area/ruin/lavaland/powered)
+"rtd" = (
+/obj/machinery/light/floor,
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/carpet/red,
+/area/security/brig)
 "rtk" = (
 /obj/structure/table,
 /obj/item/reagent_containers/glass/beaker/large,
@@ -35220,6 +35883,7 @@
 	icon_state = "4-8"
 	},
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "rDg" = (
@@ -35262,6 +35926,11 @@
 	icon_state = "wood-broken5"
 	},
 /area/awaymission)
+"rDN" = (
+/obj/effect/turf_decal/tile/blue/full,
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel/dark,
+/area/command/bridge)
 "rDU" = (
 /obj/effect/turf_decal/tile/neutral{
 	color = "#ffffff"
@@ -35356,6 +36025,7 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
+/mob/living/simple_animal/pet/dog/corgi/Ian,
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
 "rGE" = (
@@ -35514,6 +36184,10 @@
 	icon_state = "light_on"
 	},
 /area/awaymission)
+"rJT" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/engineering/main)
 "rKa" = (
 /obj/structure/closet/crate/bin,
 /obj/structure/cable{
@@ -35578,8 +36252,13 @@
 	dir = 1;
 	light_color = "#d1dfff"
 	},
+/mob/living/simple_animal/pet/dog/corgi/Ian,
 /turf/open/floor/plasteel,
 /area/cargo/storage)
+"rLS" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/freezer,
+/area/service/park)
 "rMc" = (
 /obj/structure/table/glass,
 /obj/item/book/manual/wiki/chemistry{
@@ -36010,6 +36689,7 @@
 "rWi" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/yellow/full,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "rWo" = (
@@ -36183,6 +36863,13 @@
 /obj/structure/chair/stool,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"sbq" = (
+/obj/structure/railing{
+	dir = 1
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "sbG" = (
 /obj/item/organ/heart/demon,
 /turf/open/floor/iron/cult,
@@ -36412,6 +37099,7 @@
 /obj/structure/table,
 /obj/machinery/light/floor,
 /obj/effect/turf_decal/tile/yellow/full,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "sgN" = (
@@ -36732,6 +37420,10 @@
 /obj/structure/flora/ausbushes/ywflowers,
 /turf/open/misc/grass,
 /area/hilbertshotel)
+"snb" = (
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/festive/alleyway/safe,
+/area/hilbertshotel)
 "snc" = (
 /obj/item/radio/intercom{
 	name = "Station Intercom (General)";
@@ -36821,10 +37513,25 @@
 	},
 /turf/open/floor/plasteel,
 /area/cargo/storage)
+"spw" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/narsie,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "spJ" = (
 /obj/effect/turf_decal/tile/brown/full,
 /turf/open/floor/plasteel,
 /area/cargo/storage)
+"spU" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "sqw" = (
 /obj/machinery/door/airlock/external{
 	name = "Engineering External Access";
@@ -36855,6 +37562,16 @@
 /obj/machinery/camera/autoname,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
+"sqI" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/disposalpipe/segment{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "sqK" = (
 /obj/machinery/atmospherics/components/binary/pump{
 	dir = 8;
@@ -36958,6 +37675,16 @@
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /turf/open/floor/plating,
 /area/awaymission)
+"ssB" = (
+/obj/structure/disposalpipe/segment,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/turf/open/floor/plasteel/white,
+/area/medical/medbay/central)
 "ssG" = (
 /obj/effect/turf_decal/box,
 /turf/open/floor/plating/rust,
@@ -37215,6 +37942,11 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"szX" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "sAf" = (
 /obj/structure/cable{
 	icon_state = "1-8"
@@ -37653,6 +38385,7 @@
 /obj/item/reagent_containers/food/drinks/flask/steel,
 /obj/item/door_remote/head_of_security,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "sJw" = (
@@ -37795,6 +38528,19 @@
 /obj/machinery/light/floor,
 /obj/item/dildo/human,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
+/obj/item/reagent_containers/hypospray/medipen/crocin,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "sLV" = (
@@ -38528,6 +39274,10 @@
 /obj/effect/turf_decal/vg_decals/atmos/plasma,
 /turf/open/floor/engine/plasma,
 /area/engineering/main)
+"thH" = (
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel/white,
+/area/medical/medbay/central)
 "thL" = (
 /obj/effect/turf_decal/bot{
 	dir = 1
@@ -39271,6 +40021,11 @@
 /obj/structure/cable{
 	icon_state = "2-4"
 	},
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
 /turf/open/floor/plasteel,
 /area/command/bridge)
 "tAA" = (
@@ -39358,6 +40113,17 @@
 /obj/item/clothing/head/helmet/space/pirate,
 /turf/open/floor/plating/lavaland_baseturf,
 /area/awaymission)
+"tBG" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/turf/open/floor/plasteel/dark,
+/area/command/bridge)
 "tCc" = (
 /turf/closed/wall/mineral/titanium/interior,
 /area/ruin/lavaland/powered)
@@ -39996,6 +40762,10 @@
 	},
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
+"tSn" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/wood/wood_tiled,
+/area/security/brig)
 "tSp" = (
 /obj/effect/turf_decal/loading_area{
 	color = "#55391A";
@@ -40237,6 +41007,13 @@
 	initial_gas_mix = "o2=14;n2=23;TEMP=300"
 	},
 /area/awaymission)
+"tYz" = (
+/obj/structure/disposalpipe/segment{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "tYD" = (
 /obj/structure/railing{
 	dir = 8
@@ -40334,6 +41111,15 @@
 "ubC" = (
 /obj/effect/turf_decal/tile/blue/fourcorners,
 /obj/structure/table/glass,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/vodka,
 /turf/open/floor/plasteel/white,
 /area/medical/medbay/central)
 "ubS" = (
@@ -40341,6 +41127,7 @@
 /obj/effect/turf_decal/loading_area{
 	dir = 1
 	},
+/mob/living/simple_animal/pet/dog/pug,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "ubX" = (
@@ -40862,11 +41649,13 @@
 /obj/item/clothing/gloves/combat,
 /obj/item/door_remote/head_of_security,
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "urg" = (
 /obj/structure/table,
 /obj/machinery/light/floor,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "uro" = (
@@ -41117,6 +41906,18 @@
 	},
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/awaymission)
+"uxm" = (
+/obj/machinery/shower{
+	dir = 8
+	},
+/obj/item/dildo/flared/huge,
+/turf/open/floor/plasteel/freezer,
+/area/security/prison)
+"uxq" = (
+/obj/effect/festive/street/streetlinenorth,
+/mob/living/simple_animal/pet/dog/corgi/Lisa/ada,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "uxu" = (
 /mob/living/simple_animal/hostile/gigachad_inteq,
 /obj/item/gun/ballistic/revolver/r45l,
@@ -41147,6 +41948,7 @@
 /area/awaymission)
 "uyx" = (
 /obj/structure/table,
+/obj/item/reagent_containers/food/drinks/bottle/vodka/empty,
 /turf/open/floor/plasteel,
 /area/maintenance/bar)
 "uyJ" = (
@@ -41275,6 +42077,10 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"uCX" = (
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/freezer,
+/area/security/prison)
 "uDm" = (
 /obj/machinery/recharge_station,
 /turf/open/floor/pod,
@@ -41503,6 +42309,7 @@
 /obj/structure/cable{
 	icon_state = "1-2"
 	},
+/obj/item/a_gift/anything,
 /turf/open/floor/plasteel/dark,
 /area/command/bridge)
 "uJA" = (
@@ -41738,6 +42545,7 @@
 /obj/effect/turf_decal/trimline/white/corner{
 	dir = 1
 	},
+/mob/living/simple_animal/pet/dog/corgi,
 /turf/open/floor/wood/wood_diagonal,
 /area/service/park)
 "uTO" = (
@@ -41966,6 +42774,10 @@
 /obj/item/reagent_containers/food/snacks/meat/bacon,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"uYT" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "uYU" = (
 /obj/machinery/light{
 	light_color = "#d1dfff"
@@ -42083,6 +42895,10 @@
 	},
 /turf/open/floor/plasteel,
 /area/medical/medbay/central)
+"vdz" = (
+/mob/living/simple_animal/pet/dog/corgi/puppy,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "vdD" = (
 /obj/structure/table,
 /obj/effect/turf_decal/tile/yellow{
@@ -42124,6 +42940,14 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"vej" = (
+/obj/structure/chair/stool/directional/south{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow/full,
+/mob/living/simple_animal/pet/dog/corgi/puppy/slime,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "vey" = (
 /obj/structure/table/wood,
 /obj/item/book/manual/wiki/barman_recipes,
@@ -42180,6 +43004,10 @@
 "vhq" = (
 /turf/closed/mineral/random/high_chance/volcanic,
 /area/lavaland/surface/outdoors)
+"vhS" = (
+/mob/living/simple_animal/pet/dog/corgi/exoticcorgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "vid" = (
 /obj/structure/table/glass,
 /obj/effect/turf_decal/tile/yellow{
@@ -42325,6 +43153,15 @@
 /obj/structure/chair,
 /turf/open/floor/plasteel/dark,
 /area/service/chapel/main)
+"vmv" = (
+/obj/machinery/shower{
+	dir = 8;
+	name = "emergency shower"
+	},
+/obj/machinery/light/floor,
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel/freezer,
+/area/service/park)
 "vmz" = (
 /obj/machinery/door/firedoor/heavy,
 /obj/machinery/door/poddoor/shutters/preopen{
@@ -42889,6 +43726,10 @@
 /obj/structure/salvage/computer,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"vBg" = (
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/festive/alleyway/safe,
+/area/hilbertshotel)
 "vBh" = (
 /obj/structure/falsewall,
 /turf/open/floor/plasteel/grimy,
@@ -43080,6 +43921,11 @@
 /obj/structure/sign/poster/official/nanotrasen_logo,
 /turf/closed/wall/r_wall,
 /area/security/prison/cells)
+"vJl" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/pig,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "vJx" = (
 /obj/structure/flora/rock/icy,
 /turf/open/floor/plating/asteroid/snow{
@@ -43127,6 +43973,7 @@
 /obj/machinery/shower{
 	dir = 1
 	},
+/mob/living/simple_animal/pet/dog/corgi/pig,
 /turf/open/floor/plasteel/freezer,
 /area/service/park)
 "vKN" = (
@@ -43147,6 +43994,11 @@
 /obj/machinery/telecomms/server/presets/supply,
 /turf/open/floor/plasteel/dark/telecomms,
 /area/command/bridge)
+"vLa" = (
+/obj/machinery/vending/snack/random,
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "vLi" = (
 /obj/structure/table/reinforced,
 /obj/item/storage/firstaid/toxin{
@@ -43253,15 +44105,43 @@
 	},
 /turf/open/floor/plating/rust,
 /area/ruin/lavaland/powered)
+"vNa" = (
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "vNg" = (
 /obj/structure/bed/abductor,
 /turf/open/floor/plating/abductor{
 	initial_gas_mix = "o2=14;n2=23;TEMP=300"
 	},
 /area/awaymission)
+"vNH" = (
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/festive/alleyway/safe,
+/area/service/park)
 "vNW" = (
 /turf/open/lava/smooth/lava_land_surface,
 /area/cargo/storage)
+"vOi" = (
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/obj/item/a_gift/anything,
+/turf/open/floor/plasteel,
+/area/command/bridge)
 "vOr" = (
 /obj/effect/turf_decal/tile/brown{
 	dir = 4
@@ -44039,6 +44919,14 @@
 	initial_gas_mix = "o2=14;n2=23;TEMP=300"
 	},
 /area/awaymission)
+"wiZ" = (
+/obj/structure/chair/stool/directional/south{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/red/full,
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/maintenance/bar)
 "wjb" = (
 /obj/machinery/shower,
 /obj/machinery/light/floor,
@@ -44308,6 +45196,21 @@
 /obj/item/reagent_containers/pill/happinesspsych,
 /turf/open/floor/carpet,
 /area/medical/medbay/central)
+"wqI" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/neutral,
+/obj/effect/turf_decal/tile/neutral{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/neutral{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/cargo/storage)
 "wqM" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/cult,
@@ -44499,10 +45402,22 @@
 /obj/effect/turf_decal/tile/blue,
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"wwD" = (
+/obj/effect/turf_decal/bot,
+/obj/structure/disposalpipe/segment{
+	dir = 8
+	},
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "wwE" = (
 /obj/effect/turf_decal/stripes/line,
 /turf/open/floor/plating/rust,
 /area/ruin/lavaland/powered)
+"wwQ" = (
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/engineering/main)
 "wxq" = (
 /obj/structure/flora/ausbushes/sparsegrass,
 /obj/structure/flora/rock/pile,
@@ -45383,6 +46298,13 @@
 	},
 /turf/open/floor/plating/asteroid/basalt/lava_land_surface,
 /area/awaymission)
+"wTO" = (
+/obj/machinery/light{
+	light_color = "#d1dfff"
+	},
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "wTR" = (
 /obj/machinery/light/small{
 	dir = 4
@@ -45975,6 +46897,11 @@
 	},
 /turf/closed/wall/r_wall,
 /area/engineering/main)
+"xhm" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "xhA" = (
 /obj/item/clothing/suit/cultrobes,
 /turf/open/floor/iron/cult,
@@ -46891,6 +47818,10 @@
 	},
 /turf/open/floor/festive/alleyway/safe,
 /area/service/park)
+"xIK" = (
+/mob/living/simple_animal/pet/dog/cheems,
+/turf/open/floor/wood/wood_diagonal,
+/area/service/park)
 "xIL" = (
 /obj/structure/bed,
 /obj/machinery/light/floor,
@@ -47602,6 +48533,7 @@
 	icon_state = "4-8"
 	},
 /obj/effect/turf_decal/tile/red/full,
+/obj/item/clothing/mask/pig,
 /turf/open/floor/plasteel/dark,
 /area/security/brig)
 "ydn" = (
@@ -47713,10 +48645,23 @@
 	},
 /turf/closed/wall/r_wall,
 /area/command/bridge)
+"yfu" = (
+/obj/machinery/light/floor,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "yfz" = (
 /obj/effect/mob_spawn/human/skeleton/alive,
 /turf/open/floor/carpet/purple,
 /area/security/prison/cells)
+"yfE" = (
+/obj/effect/turf_decal/delivery,
+/mob/living/simple_animal/pet/dog/corgi/Lisa,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "yfK" = (
 /obj/structure/cable{
 	icon_state = "0-4"
@@ -47943,6 +48888,11 @@
 	},
 /turf/open/floor/plating/rust,
 /area/awaymission)
+"ykZ" = (
+/obj/effect/turf_decal/bot,
+/mob/living/simple_animal/pet/dog/corgi/Ian,
+/turf/open/floor/plasteel,
+/area/security/prison)
 "ylb" = (
 /obj/machinery/door/airlock/security/glass{
 	name = "Prison Wing";
@@ -88079,7 +89029,7 @@ aXY
 jaT
 wex
 ibY
-fca
+kOG
 fca
 lsf
 mUk
@@ -89891,8 +90841,8 @@ fca
 fca
 edt
 fca
-lUC
-lUC
+dTm
+thH
 fca
 vWO
 fca
@@ -90791,7 +91741,7 @@ lzN
 wex
 wex
 vlm
-lUC
+thH
 lUC
 lUC
 lUC
@@ -91094,13 +92044,13 @@ fca
 fca
 fca
 fca
-fca
+kOG
 fca
 fca
 vWK
 fca
 lUC
-fca
+mYA
 lUC
 xHH
 gyY
@@ -91393,7 +92343,7 @@ wex
 vSK
 lUC
 lUC
-lUC
+nhf
 lUC
 lUC
 lUC
@@ -91403,7 +92353,7 @@ wex
 eYQ
 byQ
 ubC
-lUC
+dTm
 hCu
 tsB
 mSS
@@ -91703,7 +92653,7 @@ wYY
 uYU
 lXg
 mEQ
-wYY
+ssB
 bdn
 pNr
 mjK
@@ -92006,7 +92956,7 @@ vQH
 wex
 rQL
 lUC
-fca
+ivD
 lUC
 qpW
 sSc
@@ -94722,7 +95672,7 @@ mhj
 blL
 mhj
 mhj
-mhj
+lOk
 uaO
 blL
 iCP
@@ -95018,17 +95968,17 @@ qYf
 mhj
 blL
 pMQ
-mhj
+lOk
 mhj
 kMs
 blL
 mhj
 mhj
-mhj
+lOk
 fHp
 blL
 mMS
-euK
+izH
 ujs
 wex
 wex
@@ -95310,7 +96260,7 @@ rrW
 rrW
 blL
 wyo
-mhj
+lOk
 mhj
 yhY
 blL
@@ -95325,7 +96275,7 @@ mhj
 car
 blL
 bCK
-mhj
+lOk
 mhj
 njB
 blL
@@ -95618,12 +96568,12 @@ bCK
 blL
 mhj
 mhj
-mhj
+lOk
 mhj
 blL
 mhj
 gOD
-mhj
+lOk
 qeW
 blL
 mKp
@@ -95838,7 +96788,7 @@ xfX
 xfX
 xfX
 xfX
-xfX
+aEt
 xfX
 xfX
 hgb
@@ -95934,7 +96884,7 @@ mhj
 uaO
 hAo
 iCP
-euK
+oww
 hJK
 uTO
 jtP
@@ -96138,7 +97088,7 @@ sVK
 xfX
 xfX
 xfX
-xfX
+vBg
 xfX
 xfX
 xfX
@@ -96265,7 +97215,7 @@ twS
 pKy
 wRr
 wRr
-bZU
+pNo
 wRr
 wRr
 bZU
@@ -96522,7 +97472,7 @@ pjw
 cfR
 lrt
 lrt
-pjw
+spU
 pjw
 dFt
 lrt
@@ -96549,7 +97499,7 @@ lrt
 kUi
 lrt
 lrt
-lrt
+liN
 lrt
 kUi
 dzq
@@ -96560,7 +97510,7 @@ lrt
 lrt
 lrt
 kUi
-lrt
+liN
 lrt
 lrt
 iOu
@@ -96568,13 +97518,13 @@ lrt
 jzZ
 lTM
 wRr
+ngC
+wRr
+alo
 wRr
 wRr
-wRr
-wRr
-wRr
-wRr
-wRr
+lZj
+ohW
 miu
 wcY
 bzZ
@@ -96739,7 +97689,7 @@ xfX
 xfX
 xfX
 xfX
-xfX
+snb
 xfX
 xfX
 xfX
@@ -96817,35 +97767,35 @@ dTK
 dTK
 sGo
 iCP
-cJH
+jKC
 pnw
 hJK
 pnw
-vKN
+yfu
 pnw
-pnw
-pnw
-pnw
-vKN
-pnw
-pnw
+lNr
 pnw
 pnw
 vKN
 pnw
+cWs
+azI
+uYT
+vKN
+hwh
 pnw
 pnw
 hJK
 cJH
 kPQ
 hJK
-pnw
+uYT
 euK
+cWs
 pnw
 pnw
 pnw
-pnw
-pnw
+azI
 pnw
 pnw
 hJK
@@ -96859,7 +97809,7 @@ pnw
 pnw
 pnw
 pnw
-pnw
+vhS
 pnw
 pnw
 hJK
@@ -96876,7 +97826,7 @@ gES
 gES
 gES
 gES
-gES
+wiZ
 wRr
 wcY
 bzZ
@@ -97032,9 +97982,9 @@ eSO
 tIx
 xfX
 xfX
+aEt
 xfX
-xfX
-xfX
+vBg
 xfX
 xfX
 xfX
@@ -97127,7 +98077,7 @@ iCP
 grg
 pnw
 pnw
-pnw
+hwh
 iCP
 mKJ
 pnw
@@ -97147,7 +98097,7 @@ eRR
 bPg
 pnw
 pnw
-pnw
+cWs
 pnw
 pnw
 fOz
@@ -97167,7 +98117,7 @@ boI
 ejs
 ejs
 hJK
-ngl
+oNz
 pnw
 wRr
 qUb
@@ -97176,7 +98126,7 @@ eVz
 feN
 eVz
 feN
-eVz
+rrw
 feN
 eVz
 wRr
@@ -97421,7 +98371,7 @@ dTK
 dTK
 blL
 vsQ
-pnw
+uYT
 pnw
 blL
 blL
@@ -97733,7 +98683,7 @@ qBF
 blL
 fQh
 qIp
-qIp
+qPg
 okB
 blL
 ybe
@@ -97745,9 +98695,9 @@ pXI
 agz
 blL
 cDY
-cUr
+ykZ
 aiM
-cUr
+spw
 gXk
 iIQ
 blL
@@ -97780,9 +98730,9 @@ mDD
 mDD
 mDD
 mDD
+hkh
 mDD
-mDD
-mDD
+lbO
 wRr
 wcY
 bzZ
@@ -98047,9 +98997,9 @@ agz
 agz
 blL
 cDY
-cUr
+mcC
 euK
-cUr
+gtu
 yjT
 pnw
 blL
@@ -98077,14 +99027,14 @@ ehC
 ehC
 wcY
 icO
-eNp
+hDo
+wRr
+dfa
 wRr
 wRr
+qax
 wRr
-wRr
-wRr
-wRr
-wRr
+ngC
 xEC
 wcY
 bzZ
@@ -98342,17 +99292,17 @@ qIp
 blL
 xlY
 fxk
-qIp
+gBU
 qIp
 opr
 agz
 xhT
 blL
 cDY
-cUr
+pAV
 aiM
 cUr
-gXk
+hVk
 pnw
 blL
 tKB
@@ -98380,7 +99330,7 @@ ehC
 wcY
 qUb
 wRr
-wRr
+alo
 fbU
 fbU
 fbU
@@ -98552,7 +99502,7 @@ exD
 iil
 xjg
 iCr
-xfX
+aEt
 xfX
 sgH
 otu
@@ -98652,8 +99602,8 @@ agz
 blL
 cDY
 usQ
-oiF
-usQ
+wwD
+yfE
 gXk
 pnw
 blL
@@ -98688,7 +99638,7 @@ qeN
 hnA
 qeN
 hnA
-qeN
+aUr
 wRr
 wcY
 bzZ
@@ -98931,11 +99881,11 @@ dTK
 iHN
 blL
 dAj
-pnw
+vhS
 pnw
 blL
 llY
-qIp
+qPg
 qIp
 qBF
 blL
@@ -99255,7 +100205,7 @@ blL
 blL
 blL
 ilS
-eRR
+dhz
 rym
 evL
 nSE
@@ -99557,9 +100507,9 @@ sdv
 sdv
 blL
 wpN
-usQ
+inU
 oiF
-usQ
+gur
 yjT
 ujs
 blL
@@ -99588,11 +100538,11 @@ fnn
 hNR
 pxm
 grC
-eNp
+hDo
+ngC
 wRr
 wRr
-wRr
-wRr
+alo
 wRr
 eNp
 wRr
@@ -99753,7 +100703,7 @@ cPq
 amC
 amC
 gZC
-kCv
+aFs
 amC
 amC
 lPL
@@ -99837,7 +100787,7 @@ eza
 jUE
 sGo
 iCP
-pnw
+cWs
 pnw
 blL
 knz
@@ -99847,10 +100797,10 @@ knz
 jms
 ksc
 aQt
-aQt
+uCX
 wSe
-aQt
-fkm
+jcr
+bSP
 blL
 aig
 agz
@@ -99859,9 +100809,9 @@ agz
 sdv
 blL
 cDY
-cUr
+kEa
 aiM
-cUr
+qjt
 gXk
 pnw
 odG
@@ -99892,7 +100842,7 @@ pxm
 edS
 wRr
 qWH
-qWH
+fkz
 qWH
 qWH
 qWH
@@ -100148,11 +101098,11 @@ knz
 knz
 taV
 aQt
-ujx
+jAJ
 ujx
 pbq
 ujx
-fkm
+mpA
 blL
 agz
 agz
@@ -100161,9 +101111,9 @@ sdv
 agz
 blL
 eoZ
-cUr
+ykZ
 aYY
-cUr
+pAV
 gOd
 pnw
 odG
@@ -100190,9 +101140,9 @@ fUu
 fnn
 blL
 wcY
-pxm
-edS
-wRr
+vJl
+sbq
+qax
 urg
 uyx
 urg
@@ -100356,7 +101306,7 @@ dJW
 wPL
 tIx
 aDF
-iCr
+oqv
 msv
 dJW
 uFu
@@ -100451,8 +101401,8 @@ knz
 jms
 wKi
 aQt
-aQt
-aQt
+jcr
+uCX
 wSe
 fkm
 blL
@@ -100658,7 +101608,7 @@ exD
 iil
 exD
 wPL
-iCr
+oqv
 msv
 tIx
 exD
@@ -100666,7 +101616,7 @@ woP
 iil
 qKo
 iCr
-xfX
+vBg
 xfX
 sgH
 otu
@@ -100743,7 +101693,7 @@ fut
 dTK
 blL
 dAj
-pnw
+lNr
 pnw
 blL
 unA
@@ -100752,10 +101702,10 @@ unA
 vas
 jms
 wKi
+uxm
 vHd
 vHd
-vHd
-vHd
+hMr
 vHd
 imH
 agz
@@ -100765,9 +101715,9 @@ agz
 tdq
 blL
 cDY
-usQ
+jjb
 oiF
-usQ
+pEX
 gXk
 pnw
 blL
@@ -101067,10 +102017,10 @@ blL
 blL
 blL
 nmw
-hPJ
+eOO
 hub
 hPJ
-jia
+pzI
 pnw
 blL
 rPB
@@ -101102,10 +102052,10 @@ wRr
 wRr
 wRr
 wRr
+alo
 wRr
 wRr
-wRr
-wRr
+alo
 wcY
 bzZ
 bzZ
@@ -101347,7 +102297,7 @@ iHN
 dTK
 blL
 dAj
-pnw
+uYT
 pnw
 blL
 oXm
@@ -101369,7 +102319,7 @@ pXI
 agz
 blL
 hPn
-eRR
+hsS
 rym
 eRR
 nSE
@@ -101403,7 +102353,7 @@ ubS
 eNp
 gGH
 gGH
-gGH
+vej
 gGH
 gGH
 gGH
@@ -101674,7 +102624,7 @@ cDY
 usQ
 oiF
 usQ
-gXk
+pft
 pnw
 blL
 rPB
@@ -101708,7 +102658,7 @@ rWi
 sgL
 rWi
 sgL
-rWi
+lEg
 wRr
 wcY
 bzZ
@@ -101961,7 +102911,7 @@ qOs
 tQU
 eYg
 llj
-llj
+fkI
 qHV
 blL
 hiB
@@ -101972,8 +102922,8 @@ blL
 agz
 xhT
 blL
-cDY
-cUr
+cCd
+qKr
 aiM
 cUr
 gXk
@@ -102254,11 +103204,11 @@ qyV
 blL
 iCP
 cJH
-pnw
+vhS
 blL
 llj
 llj
-llj
+fkI
 oqL
 blL
 llj
@@ -102276,7 +103226,7 @@ agz
 blL
 cDY
 cUr
-euK
+tYz
 pbu
 gXk
 pnw
@@ -102477,7 +103427,7 @@ qhk
 qhk
 kPX
 xfX
-xfX
+snb
 xfX
 xfX
 kJz
@@ -102577,7 +103527,7 @@ tRH
 agz
 blL
 cDY
-cUr
+xhm
 aiM
 cUr
 gXk
@@ -102603,15 +103553,15 @@ blL
 fnn
 fnn
 blL
-dYf
+bZX
 wHh
 wcY
 wRr
 wRr
+kZa
 wRr
 wRr
-wRr
-wRr
+qax
 wRr
 wRr
 eNp
@@ -102779,7 +103729,7 @@ tIx
 hWG
 iCr
 xfX
-xfX
+aEt
 xfX
 xfX
 sgH
@@ -102857,7 +103807,7 @@ mHT
 kMT
 jwp
 iCP
-pnw
+cWs
 pnw
 blL
 blL
@@ -102882,7 +103832,7 @@ sxm
 usQ
 oiF
 usQ
-gXk
+uxq
 ujs
 hAo
 blL
@@ -103200,13 +104150,13 @@ lrt
 lrt
 lrt
 jpx
-lrt
+pjv
 mfV
 pnw
 pgY
 kUW
 kUW
-pgY
+ecP
 pnw
 pnw
 wRr
@@ -103469,7 +104419,7 @@ cJH
 pnw
 hJK
 pnw
-vKN
+gUC
 pnw
 pnw
 hJK
@@ -103477,41 +104427,41 @@ pnw
 iCP
 cJH
 pnw
-pnw
+jDD
 pnw
 jah
 cJH
 pnw
 hJK
 pnw
-wvo
+sqI
+pnw
+pnw
+jDD
+pnw
+pnw
+pnw
+hkN
 pnw
 pnw
 pnw
 pnw
-pnw
-pnw
-hJK
-pnw
-pnw
-pnw
-pnw
-pnw
+lNr
 pnw
 iIv
 pnw
 pnw
 pnw
-sLV
+npn
 iCP
 pnw
-pnw
+jDD
 pnw
 hJK
 pnw
 pnw
 pnw
-wRr
+dsX
 wRr
 tXZ
 iDS
@@ -103779,11 +104729,11 @@ pnw
 cQp
 ttV
 pnw
-pnw
+vhS
 pnw
 cQp
 hvq
-pnw
+cWs
 pnw
 pnw
 wvo
@@ -103795,9 +104745,9 @@ pnw
 pnw
 pnw
 ngl
+azI
 pnw
-pnw
-pnw
+vhS
 sLV
 ngl
 pnw
@@ -104020,7 +104970,7 @@ xwI
 mKf
 luw
 ieG
-pPr
+fAa
 ieG
 exc
 wte
@@ -104117,7 +105067,7 @@ blL
 vxK
 wRr
 wRr
-wRr
+alo
 wRr
 wRr
 wRr
@@ -104292,7 +105242,7 @@ dPc
 xfX
 xfX
 xfX
-xfX
+snb
 xfX
 xfX
 xfX
@@ -104345,7 +105295,7 @@ pGL
 pGL
 pGL
 pGL
-pGL
+vdz
 pGL
 pGL
 pGL
@@ -104623,7 +105573,7 @@ xwI
 xwI
 qvE
 uIs
-pPr
+fAa
 xwI
 tMg
 ulR
@@ -104640,7 +105590,7 @@ pGL
 pGL
 pGL
 pGL
-pGL
+bYh
 pGL
 pGL
 pGL
@@ -104943,7 +105893,7 @@ pGL
 pGL
 lXO
 pGL
-pGL
+vdz
 lXO
 pGL
 pGL
@@ -104952,7 +105902,7 @@ pGL
 pGL
 pGL
 pGL
-pGL
+bYh
 pGL
 ske
 bFR
@@ -104995,7 +105945,7 @@ sqP
 blL
 tQW
 wvo
-ujs
+wTO
 blL
 mRz
 agz
@@ -105226,12 +106176,12 @@ fBV
 xwI
 kGU
 uIs
-pPr
-pPr
+fAa
+nCK
 rgO
 aoW
 frY
-frY
+ddh
 nVo
 vYM
 tny
@@ -105244,7 +106194,7 @@ bsq
 mel
 bkp
 bkp
-bkp
+hwU
 bkp
 lxG
 pGL
@@ -105252,9 +106202,9 @@ pGL
 pGL
 pGL
 pGL
-pFO
+vLa
 pGL
-pGL
+vNH
 pGL
 bFR
 bFR
@@ -105506,7 +106456,7 @@ mKe
 mKe
 aLi
 xfX
-xfX
+snb
 xfX
 tBt
 ejW
@@ -105528,11 +106478,11 @@ tIo
 xwI
 cPC
 xHo
-fBV
-fBV
+hRh
+ixM
 iXR
 kIJ
-frY
+kRT
 atT
 gQM
 lRN
@@ -105831,11 +106781,11 @@ xwI
 bhr
 kbk
 hCC
-fBV
+lZY
 bmN
 rqp
 ryi
-frY
+cLo
 uoh
 wTF
 rGy
@@ -105846,7 +106796,7 @@ thZ
 csn
 viC
 nsf
-fIP
+xIK
 gXf
 fIP
 csB
@@ -105900,7 +106850,7 @@ kkJ
 vnh
 blL
 tQW
-wvo
+qaW
 ujs
 blL
 iZH
@@ -106132,7 +107082,7 @@ jfI
 xwI
 tOf
 khY
-fBV
+vOi
 tzU
 kAB
 hqC
@@ -106140,7 +107090,7 @@ xQc
 xQc
 rOB
 wlQ
-qub
+rDN
 peU
 roi
 pGL
@@ -106149,8 +107099,8 @@ cqh
 fdn
 uTB
 svz
-fIP
-fIP
+lBD
+hlG
 ofs
 iMG
 pGL
@@ -106160,7 +107110,7 @@ bCE
 pGL
 wur
 pGL
-pGL
+vdz
 pGL
 veX
 pfS
@@ -106434,12 +107384,12 @@ mim
 xwI
 rnM
 mae
-pPr
-lnn
+fAa
+tBG
 qHf
 rgO
-frY
-frY
+pUf
+mXn
 nVo
 iux
 xOU
@@ -106503,7 +107453,7 @@ bKK
 uRp
 sme
 blL
-pnw
+jDD
 wvo
 pnw
 blL
@@ -106709,13 +107659,13 @@ xfX
 exD
 xfX
 xfX
+snb
 xfX
 xfX
 xfX
 xfX
 xfX
-xfX
-xfX
+vBg
 xfX
 xfX
 aLi
@@ -106741,7 +107691,7 @@ lnn
 sgX
 aEn
 cFw
-qub
+iAM
 gub
 fBV
 fBV
@@ -106754,10 +107704,10 @@ iHB
 thZ
 thZ
 iHB
-thZ
+rjx
 thZ
 iHB
-thZ
+gIr
 thZ
 thZ
 thZ
@@ -106802,7 +107752,7 @@ rKy
 blL
 tQW
 pnw
-pnw
+vhS
 pnw
 blL
 tQW
@@ -107367,9 +108317,9 @@ pGL
 pGL
 pGL
 pGL
-pGL
+pny
 cqh
-pGL
+vNH
 veX
 pfS
 veX
@@ -109135,7 +110085,7 @@ eeK
 eeK
 aLi
 xfX
-xfX
+snb
 xfX
 xwI
 jVO
@@ -109175,7 +110125,7 @@ aPw
 dNH
 jnH
 pGL
-pGL
+iAq
 pGL
 pGL
 pGL
@@ -109222,7 +110172,7 @@ kMJ
 nWN
 kVj
 iwy
-spJ
+pmm
 azB
 kBr
 kkQ
@@ -109482,7 +110432,7 @@ qge
 qge
 qge
 pmT
-cqh
+ejq
 pGL
 pGL
 pGL
@@ -109524,7 +110474,7 @@ tNJ
 aeZ
 qwh
 azQ
-spJ
+coE
 azB
 kBr
 rVk
@@ -110365,7 +111315,7 @@ pPr
 frY
 xwI
 frY
-pPr
+jJj
 xwI
 fBV
 fBV
@@ -111590,10 +112540,10 @@ jQI
 qEp
 qEp
 dys
-ioU
+hRE
 iAU
 xTO
-xTO
+rLS
 mHD
 dys
 jhQ
@@ -111642,7 +112592,7 @@ cjU
 nVu
 ohP
 uWr
-cjU
+jAS
 vpi
 cjU
 kVj
@@ -111937,14 +112887,14 @@ kVj
 fHd
 hxb
 hxb
-cjU
+jAS
 mcD
 hxb
-cjU
+vNa
 nwZ
 hxb
 qEG
-cjU
+jAS
 uWr
 hxb
 jkJ
@@ -112239,15 +113189,15 @@ kvv
 nAq
 mSY
 cjU
-hxb
-hxb
+wqI
+owi
 hxb
 fRZ
 cjU
 cjU
 hxb
-cjU
-cjU
+vNa
+vNa
 cjU
 kVj
 mMR
@@ -112461,7 +113411,7 @@ hgb
 qOi
 hgb
 xfX
-xfX
+aEt
 xfX
 xfX
 xfX
@@ -112499,7 +113449,7 @@ dys
 ioU
 mHD
 dys
-ioU
+hRE
 mHD
 dys
 jhQ
@@ -112547,7 +113497,7 @@ rig
 cjU
 dJQ
 cjU
-dJQ
+szX
 hxb
 dJQ
 sex
@@ -112799,7 +113749,7 @@ qEp
 lNq
 dys
 ioU
-xTO
+rLS
 iAU
 xTO
 mHD
@@ -112842,11 +113792,11 @@ vns
 kVj
 uoG
 qEG
-cjU
+jAS
 dJQ
 cjU
 fdq
-cjU
+vNa
 dJQ
 hxb
 kRj
@@ -113103,7 +114053,7 @@ dys
 xTO
 uBN
 xFr
-uBN
+vmv
 xTO
 dys
 uvd
@@ -113151,7 +114101,7 @@ dJQ
 sRO
 xlx
 sRO
-sRO
+bhg
 fxR
 dJQ
 sRO
@@ -113369,7 +114319,7 @@ hJI
 fmq
 xfX
 xfX
-xfX
+snb
 xfX
 xfX
 hgb
@@ -113427,8 +114377,8 @@ qHD
 aWC
 dCw
 sui
-tJR
-tJR
+lVC
+lVC
 kDX
 fLF
 siF
@@ -114005,7 +114955,7 @@ haK
 qZP
 vxr
 iLs
-lJt
+tSn
 xnC
 dMW
 bxf
@@ -114264,10 +115214,10 @@ xDi
 cfs
 xWN
 xWN
+frg
 xWN
 xWN
-xWN
-xWN
+frg
 xWN
 xDi
 hgb
@@ -114278,7 +115228,7 @@ ezE
 hgb
 xfX
 xfX
-xfX
+snb
 xfX
 xfX
 xfX
@@ -114628,13 +115578,13 @@ dED
 nMt
 puK
 fnm
-tJR
+lVC
 tJR
 kWn
 tJR
 tJR
 tJR
-tJR
+hUF
 tJR
 kdS
 fwC
@@ -114929,12 +115879,12 @@ oZi
 eqH
 tJR
 puK
-msY
+ezx
 tJR
 tJR
+wwQ
 tJR
-tJR
-tJR
+rJT
 tJR
 tJR
 tJR
@@ -115170,7 +116120,7 @@ xDi
 dox
 xWN
 xWN
-xWN
+frg
 fkr
 cqw
 cqw
@@ -115213,7 +116163,7 @@ dhB
 qZP
 haK
 haK
-haK
+anM
 haK
 haK
 haK
@@ -115232,14 +116182,14 @@ qqx
 bzO
 nCN
 msY
+lVC
+tJR
+hUF
 tJR
 tJR
 tJR
-tJR
-tJR
-tJR
-tJR
-tJR
+wwQ
+wwQ
 mrn
 lUZ
 kEj
@@ -115506,9 +116456,9 @@ haK
 xof
 cUK
 cUK
-cUK
+ieO
 uKC
-qtG
+cxT
 qtG
 haK
 haK
@@ -115518,7 +116468,7 @@ eHG
 dsQ
 hzx
 haK
-haK
+anM
 rWM
 haK
 mpt
@@ -115538,7 +116488,7 @@ tJR
 tJR
 qph
 tJR
-tJR
+cIh
 tJR
 tJR
 tJR
@@ -115803,7 +116753,7 @@ xbj
 ePv
 qtG
 qtG
-qtG
+cxT
 haK
 ept
 haK
@@ -115814,8 +116764,8 @@ sTP
 xTK
 hTK
 sTP
-mBb
-haK
+cqc
+anM
 fPH
 sLT
 dID
@@ -115836,14 +116786,14 @@ sZF
 emw
 xzK
 kbo
+hUF
 tJR
 tJR
 tJR
 tJR
 tJR
 tJR
-tJR
-tJR
+hUF
 kdS
 bJJ
 aOa
@@ -116100,11 +117050,11 @@ xde
 xde
 xfX
 xfX
-xfX
+snb
 lRR
 mjy
 qtG
-qtG
+cxT
 qtG
 haK
 nGD
@@ -117012,10 +117962,10 @@ mym
 bmV
 bmV
 haK
-haK
+anM
 ydm
 hdi
-qtG
+cxT
 xTK
 qrZ
 sTP
@@ -117317,17 +118267,17 @@ haK
 haK
 ept
 haK
-joR
+rtd
 xTK
 ahr
-sTP
+oYo
 xTK
 fJa
 sTP
 mBb
 haK
 haK
-haK
+anM
 haK
 haK
 haK
@@ -117627,7 +118577,7 @@ haK
 haK
 haK
 haK
-haK
+anM
 haK
 haK
 haK
@@ -117932,7 +118882,7 @@ tvS
 tvS
 ybF
 haK
-haK
+anM
 haK
 haK
 aUH
@@ -118833,7 +119783,7 @@ vxr
 tSB
 haK
 haK
-haK
+anM
 haK
 haK
 vxr
@@ -119140,7 +120090,7 @@ haK
 haK
 vxr
 vVk
-haK
+anM
 vxr
 nRn
 nRn
@@ -119739,7 +120689,7 @@ vxr
 kil
 haK
 haK
-haK
+anM
 haK
 haK
 vxr
